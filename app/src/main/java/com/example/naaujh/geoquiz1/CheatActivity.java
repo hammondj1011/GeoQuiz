@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 /**
- * Created by naaujh on 8/31/2016.
+ * Created by Jeff Hammond on 8/31/2016.
  */
 public class CheatActivity extends Activity{
     public static final String EXTRA_ANSWER_IS_TRUE=
