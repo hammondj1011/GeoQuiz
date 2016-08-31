@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoQuiz1</string>
+    <string name="true_button">"True"</string>
+    <string name="false_button">"False"</string>
+    <string name="question_text">"The capital city of North Carolina is Charlotte </string>
+    <string name="correct_toast">"That is correct!  Good job!"</string>
+    <string name="incorrect_toast">"That is incorrect"</string>
+    <string name="previous_button">"Back"</string>
+    <string name="next_button">"Next"</string>
+    <string name="question_one">"Canada is south of the United States"</string>
+    <string name="question_two">"The first in the Union was Delaware"</string>
+    <string name="question_three">"The thirteenth state in the Union was North Carolina"</string>
+    <string name="question_four">"Lettuce goes on a BLT sandwich"</string>
+</resources>
