@@ -4,34 +4,34 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="136312565845261"
-    token="7507839559115231411" >
+    timestamp="148077459180998"
+    token="-5733664769252808510" >
 
     <task
         name="javac"
-        duration="184" />
+        duration="629" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="73" />
+        duration="54" />
     <task
         name="verifier"
-        duration="3" />
+        duration="0" />
 
     <artifact
-        location="/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        location="C:\Users\naaujh\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
         type="DEX" />
 
-    <build timestamp="135437065394411" >
+    <build timestamp="147085355130521" >
         <artifact
-            location="/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/outputs/apk/app-debug.apk"
+            location="C:\Users\naaujh\AndroidStudioProjects\GeoQuiz\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="136312565845261" >
+    <build timestamp="148077459180998" >
         <artifact
-            location="/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            location="C:\Users\naaujh\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
             type="DEX" />
     </build>
 
