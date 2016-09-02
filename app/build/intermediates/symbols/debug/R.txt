@@ -505,7 +505,7 @@ int id activity_chooser_view_content 0x7f0b0027
 int id add 0x7f0b0013
 int id alertTitle 0x7f0b0033
 int id always 0x7f0b001d
-int id answerTextView 0x7f0b0054
+int id answerTextView1 0x7f0b0054
 int id beginning 0x7f0b001a
 int id bottom 0x7f0b0022
 int id buttonPanel 0x7f0b002e
@@ -565,7 +565,7 @@ int id search_src_text 0x7f0b004e
 int id search_voice_btn 0x7f0b0052
 int id select_dialog_listview 0x7f0b0053
 int id shortcut 0x7f0b003d
-int id showAnswerButton 0x7f0b0055
+int id showAnswerButton1 0x7f0b0055
 int id showCustom 0x7f0b000f
 int id showHome 0x7f0b0010
 int id showTitle 0x7f0b0011
@@ -681,7 +681,7 @@ int string question_text 0x7f06002b
 int string question_three 0x7f06002c
 int string question_two 0x7f06002d
 int string search_menu_title 0x7f060013
-int string show_answer_button 0x7f06002e
+int string show_answer_button1 0x7f06002e
 int string status_bar_notification_info_overflow 0x7f060014
 int string true_button 0x7f06002f
 int string warning_text 0x7f060030

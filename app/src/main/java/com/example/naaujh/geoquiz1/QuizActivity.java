@@ -17,6 +17,7 @@ public class QuizActivity extends AppCompatActivity {
     private ImageButton mNextButton;
     private ImageButton mPreviousButton;
     private Button mCheatButton;
+    private boolean mIsCheater;
     private static final String TAG = "QuizActivity";
     private static final String KEY_INDEX = "index";
 
@@ -41,15 +42,37 @@ public class QuizActivity extends AppCompatActivity {
 
         int messageResId=0;
 
-        if(userPressedTrue == answerIsTrue){
-            messageResId = R.string.correct_toast;
+        if(mIsCheater){
+            messageResId=R.string.judgement_toast;
+        }else{
+            if(userPressedTrue == answerIsTrue){
+                messageResId = R.string.correct_toast;
+            }
+            else{
+                messageResId = R.string.incorrect_toast;
+            }
+
         }
-        else{
-            messageResId = R.string.incorrect_toast;
-        }
+
 
         Toast.makeText(this, messageResId, Toast.LENGTH_SHORT).show();
     }
+
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data){
+        if(data==null){
+            return;
+        }
+
+        mIsCheater=data.getBooleanExtra(CheatActivity.EXTRA_ANSWER_SHOWN, false);
+    }
+
+
+
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -120,7 +143,7 @@ public class QuizActivity extends AppCompatActivity {
                 Intent i=new Intent(QuizActivity.this,CheatActivity.class);
                 boolean answerIsTrue=mQuestionBank[mCurrentIndex].isTrueQuestion();
                 i.putExtra(CheatActivity.EXTRA_ANSWER_IS_TRUE,answerIsTrue);
-                startActivity(i);
+                startActivityForResult(i,0);
             }
         });
 

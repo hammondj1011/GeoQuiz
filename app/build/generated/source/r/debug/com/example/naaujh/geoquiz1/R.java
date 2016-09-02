@@ -1798,7 +1798,7 @@ containing a value of this type.
         public static final int add=0x7f0b0013;
         public static final int alertTitle=0x7f0b0033;
         public static final int always=0x7f0b001d;
-        public static final int answerTextView=0x7f0b0054;
+        public static final int answerTextView1=0x7f0b0054;
         public static final int beginning=0x7f0b001a;
         public static final int bottom=0x7f0b0022;
         public static final int buttonPanel=0x7f0b002e;
@@ -1858,7 +1858,7 @@ containing a value of this type.
         public static final int search_voice_btn=0x7f0b0052;
         public static final int select_dialog_listview=0x7f0b0053;
         public static final int shortcut=0x7f0b003d;
-        public static final int showAnswerButton=0x7f0b0055;
+        public static final int showAnswerButton1=0x7f0b0055;
         public static final int showCustom=0x7f0b000f;
         public static final int showHome=0x7f0b0010;
         public static final int showTitle=0x7f0b0011;
@@ -1982,7 +1982,7 @@ containing a value of this type.
         public static final int question_three=0x7f06002c;
         public static final int question_two=0x7f06002d;
         public static final int search_menu_title=0x7f060013;
-        public static final int show_answer_button=0x7f06002e;
+        public static final int show_answer_button1=0x7f06002e;
         public static final int status_bar_notification_info_overflow=0x7f060014;
         public static final int true_button=0x7f06002f;
         public static final int warning_text=0x7f060030;

@@ -1,4 +1,10 @@
-CHANGED,C:\Users\naaujh\AndroidStudioProjects\GeoQuiz1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\naaujh\geoquiz1\QuizActivity$override.class
-CHANGED,C:\Users\naaujh\AndroidStudioProjects\GeoQuiz1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\naaujh\geoquiz1\QuizActivity$6$override.class
-CHANGED,C:\Users\naaujh\AndroidStudioProjects\GeoQuiz1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\naaujh\geoquiz1\CheatActivity$override.class
-CHANGED,C:\Users\naaujh\AndroidStudioProjects\GeoQuiz1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/naaujh/geoquiz1/QuizActivity$6$override.class
+CHANGED,/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/naaujh/geoquiz1/QuizActivity$5$override.class
+CHANGED,/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/naaujh/geoquiz1/CheatActivity$1$override.class
+CHANGED,/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/naaujh/geoquiz1/QuizActivity$1$override.class
+CHANGED,/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/naaujh/geoquiz1/QuizActivity$4$override.class
+CHANGED,/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/naaujh/geoquiz1/QuizActivity$2$override.class
+CHANGED,/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/naaujh/geoquiz1/QuizActivity$3$override.class
+CHANGED,/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/naaujh/geoquiz1/QuizActivity$override.class
+CHANGED,/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/naaujh/geoquiz1/CheatActivity$override.class
+CHANGED,/Users/Jeff/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
