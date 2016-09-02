@@ -1,2 +1,0 @@
-CHANGED,C:\Users\naaujh\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\naaujh\geoquiz1\CheatActivity$override.class
-CHANGED,C:\Users\naaujh\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

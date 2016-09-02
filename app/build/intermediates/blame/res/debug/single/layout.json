@@ -112,12 +112,12 @@
         "source": "C:\\Users\\naaujh\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\naaujh\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\naaujh\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "C:\\Users\\naaujh\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cheat.xml",
         "source": "C:\\Users\\naaujh\\AndroidStudioProjects\\GeoQuiz\\app\\src\\main\\res\\layout\\activity_cheat.xml"
+    },
+    {
+        "merged": "C:\\Users\\naaujh\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\naaujh\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "C:\\Users\\naaujh\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",

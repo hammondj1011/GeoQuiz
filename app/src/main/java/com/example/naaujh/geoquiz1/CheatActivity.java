@@ -20,7 +20,11 @@ public class CheatActivity extends Activity{
             "com.bignerdranch.android.geoquiz.cheat_status";
     public static final String VIEW_STATUS=
             "com.bignerdranch.android.geoquiz.view_status";
+
+
     private boolean mAnswerIsTrue;
+    private int mCurrentIndex;
+
     private TextView mAnswerTextView1;
     private boolean mAnswerShown;
     private Button mShowAnswer1;
@@ -28,7 +32,9 @@ public class CheatActivity extends Activity{
     private void setAnswerShownResult(boolean isAnswerShown){
         Intent data = new Intent();
         data.putExtra(EXTRA_ANSWER_SHOWN, isAnswerShown);
+
         mAnswerShown=isAnswerShown;
+
         setResult(RESULT_OK,data);
     }
 
