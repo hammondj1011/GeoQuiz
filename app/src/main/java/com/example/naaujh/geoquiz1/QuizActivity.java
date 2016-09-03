@@ -1,6 +1,7 @@
 package com.example.naaujh.geoquiz1;
 
 import android.content.Intent;
+import android.os.Build;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -24,6 +25,7 @@ public class QuizActivity extends AppCompatActivity {
 
 
     private TextView mQuestionTextView;
+    private TextView mLevelAPI;
 
     private TrueFalse[] mQuestionBank=new TrueFalse[]{
             new TrueFalse(R.string.question_one,false),
@@ -85,6 +87,11 @@ public class QuizActivity extends AppCompatActivity {
         setContentView(R.layout.activity_quiz);
 
         mQuestionTextView = (TextView)findViewById(R.id.question_text_view);
+
+        mLevelAPI =  (TextView)findViewById(R.id.API_version);
+        //mLevelAPI.setText(Build.VERSION.SDK_INT);
+        mLevelAPI.setText("API Level is: " + Integer.toString(Build.VERSION.SDK_INT));
+        //mLevelAPI.setText("16");
 
 
         mTrueButton = (Button)findViewById(R.id.true_button);
@@ -153,6 +160,8 @@ public class QuizActivity extends AppCompatActivity {
                 startActivityForResult(i,0);
             }
         });
+
+
 
         updateQuestion();
     }
